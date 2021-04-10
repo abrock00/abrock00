@@ -1,3 +1,4 @@
+[![hola](https://telegra.ph/file/53646eaac2c1586e39f6c.jpg)](http://tg://resolve?domain=ab_nero)
 
 - 👋 Hi, I’m @abrock00
 - 👀 I’m interested in ...
@@ -8,5 +9,5 @@
 <!---
 abrock00/abrock00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-<img align="left" alt="AB_NERO's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abrock00-ctrl&hide=prs&count_private=true&show_icons=true&theme=algolia" />
+--->"
+
